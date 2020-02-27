@@ -1,0 +1,7 @@
+{
+    "dbhost": "bloomfieldmysqlinstance.cl3unwcd75wp.us-east-1.rds.amazonaws.com",
+    "dbname":  "Bloomfield2020",
+    "dbport": 3306,
+    "dbuser": "admin",
+    "password": "Dltjswo12!"
+}
